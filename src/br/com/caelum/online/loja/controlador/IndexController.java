@@ -15,5 +15,9 @@ public class IndexController {
 	public void ajuda(){
 	}
 	
+	@Path("/sobre")
+	public void sobre(){
+	}
+	
 	
 }
