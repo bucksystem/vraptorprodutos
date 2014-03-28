@@ -11,4 +11,5 @@ public class IndexController {
 		System.out.println("Meu sistema com vraptor");
 	}	
 	
+    
 }

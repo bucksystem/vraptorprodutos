@@ -10,5 +10,14 @@
 	Parabéns, o VRaptor está funcionando, e você já pode passar para a próxima seção!
 	<br>
 	Essa aqui será a futura página de entrada da loja!
+	
+	<br>
+	Rogério Costa
+	<br>
+	Leonardo Yudji
+	<br>
+	Isabelle Miyuki
+	<br>
+	Orpheu...
 </body>
 </html>
