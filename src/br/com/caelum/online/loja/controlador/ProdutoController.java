@@ -81,8 +81,12 @@ public class ProdutoController {
 		result.redirectTo(ProdutoController.class).lista();
 	}
 	
-	public void retorno(){
-		
+	public void retorno(){	
+	}
+	
+	public void remove( Produto produto ){
+		produtos.remove(produto);
+		result.nothing();
 	}
 	
 }
